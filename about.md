@@ -13,15 +13,23 @@ Linkedin/ Sai Ho Chan
 Facebook/ Chan Sai Ho
 
 #### Education:
-PhD (Urban Studies), University of Basel, Basel, Switzerland (2025 - Currently)
+PhD (Urban Studies), University of Basel
 
-MS (Building and Planning), National Taiwan University, Taipei (2021 - Currently)
+Basel, Switzerland (2025 - Currently)
 
-MA (Asian Studies) with Cum Laude, Leiden University, Leiden, Netherlands (2024 - 2025)
+*MS (Building and Planning)*, National Taiwan University
+
+Taipei (2021 - Currently)
+
+*MA (Asian Studies) with Cum Laude*, Leiden University
+
+Leiden, Netherlands (2024 - 2025)
 
 - Master Honour Certificate: Leiden Leadership Programme
 
-BA (Cultural Studies), CUHK, Hong Kong (2017 - 2021)
+*BA (Cultural Studies)*, Chinese University of Hong Kong
+
+Hong Kong (2017 - 2021)
 
 #### Experience:
 
