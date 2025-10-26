@@ -4,7 +4,7 @@ title: My Story
 permalink: /about/
 ---
 
-## A Junior Urban Researcher from Hong Kong.
+### A Junior Urban Researcher from Hong Kong.
 
 Email/ saiho.chan@unibas.ch
 
@@ -12,7 +12,7 @@ Linkedin/ Sai Ho Chan
 
 Facebook/ Chan Sai Ho
 
-### Education:
+#### Education:
 PhD (Urban Studies), University of Basel, Basel, Switzerland (2025 - Currently)
 
 MS (Building and Planning), National Taiwan University, Taipei (2021 - Currently)
@@ -23,7 +23,7 @@ MA (Asian Studies) with Cum Laude, Leiden University, Leiden, Netherlands (2024 
 
 BA (Cultural Studies), CUHK, Hong Kong (2017 - 2021)
 
-### Experience:
+#### Experience:
 
 **PhD Researcher in SNF-funded project “ASPIRA”**
 
